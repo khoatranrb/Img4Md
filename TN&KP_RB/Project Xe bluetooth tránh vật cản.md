@@ -4,12 +4,12 @@
 
 
 
-## I. Mục tiêu:
+## I. Mục tiêu
 
 * Xe robot được điều khiển qua bluetooth
 * Tránh vật cản trước mắt
 
-## II. Chuẩn bị linh kiện:
+## II. Chuẩn bị linh kiện
 
 ### 1. Board Arduino Uno R3
 
@@ -100,22 +100,54 @@
 
 ## IV. Giải thuật:
 
+<p>
+    <img src = 'https://raw.githubusercontent.com/khoatranrb/Img4Md/master/TN%26KP_RB/map.png' width=800>
+</p>
+
+## V. Động học
+
+### 1. FORWARD
+
+<p>
+    <img src = 'https://raw.githubusercontent.com/khoatranrb/Img4Md/master/TN%26KP_RB/forward.png' width=300>
+</p>
+
+### 2. BACKWARD
+
+<p>
+    <img src = 'https://raw.githubusercontent.com/khoatranrb/Img4Md/master/TN%26KP_RB/backward.png' width=300>
+</p>
 
 
 
 
 
+### 3. TURN LEFT
 
+<p>
+    <img src = 'https://raw.githubusercontent.com/khoatranrb/Img4Md/master/TN%26KP_RB/left.png' width=300>
+</p>
 
+### 4. TURN RIGHT
 
-
-
-
-
-
+<p>
+    <img src = 'https://raw.githubusercontent.com/khoatranrb/Img4Md/master/TN%26KP_RB/right.png' width=300>
+</p>
 
 
 
 ### Tham khảo:
 
 [1] https://www.slideshare.net/trongthuy2/luan-van-mach-dieu-khien-thiet-bi-bang-android-bang-bluetooth-hay
+
+[2] http://www4.hcmut.edu.vn/~huynhqlinh/VLDC1/Chuong%2001_05.htm
+
+[3] http://arduino.vn/bai-viet/233-su-dung-cam-bien-khoang-cach-hc-sr04
+
+[4] https://mechasolution.vn/Blog/bai-17-cam-bien-khoang-cach-sieu-am-hc-sr04
+
+[5] https://htpro.vn/news/dien-tu-co-ban/nguyen-ly-cau-tao-cam-bien-sieu-am-thong-dung-5.html
+
+[6] http://ngocson-inspirer.blogspot.com/2015/10/module-bluetooth-hc-05-phan-1.html
+
+[7] http://arduino.vn/bai-viet/639-du-xe-dieu-khien-tu-xa-qua-bluetooth
