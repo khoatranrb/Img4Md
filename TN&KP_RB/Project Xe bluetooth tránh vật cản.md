@@ -64,11 +64,12 @@
 
 * Khoảng cách đến vật cản:
   $$
-  distance = \frac{t}{2}\times \frac{340}{1000}
+  distance = \frac{t}{2}\times \frac{340}{1000\times 100}
   $$
   
 
   * vận tốc âm thanh 340 $m/s$
+  * [t] = $ms$
 
 ### 6. Linh kiện khác
 
@@ -101,7 +102,7 @@
 ## IV. Giải thuật:
 
 <p>
-    <img src = 'https://raw.githubusercontent.com/khoatranrb/Img4Md/master/TN%26KP_RB/map.png' width=800>
+    <img src = 'https://raw.githubusercontent.com/khoatranrb/Img4Md/master/TN%26KP_RB/map2.png' width=800>
 </p>
 
 ## V. Động học
@@ -109,32 +110,28 @@
 ### 1. FORWARD
 
 <p>
-    <img src = 'https://raw.githubusercontent.com/khoatranrb/Img4Md/master/TN%26KP_RB/forward.png' width=300>
+    <img src = 'https://raw.githubusercontent.com/khoatranrb/Img4Md/master/TN%26KP_RB/Ff.png' width=300>
 </p>
 
 ### 2. BACKWARD
 
 <p>
-    <img src = 'https://raw.githubusercontent.com/khoatranrb/Img4Md/master/TN%26KP_RB/backward.png' width=300>
+    <img src = 'https://raw.githubusercontent.com/khoatranrb/Img4Md/master/TN%26KP_RB/Fb.png' width=300>
 </p>
-
-
 
 
 
 ### 3. TURN LEFT
 
 <p>
-    <img src = 'https://raw.githubusercontent.com/khoatranrb/Img4Md/master/TN%26KP_RB/left.png' width=300>
+    <img src = 'https://raw.githubusercontent.com/khoatranrb/Img4Md/master/TN%26KP_RB/Fl.png' width=300>
 </p>
 
 ### 4. TURN RIGHT
 
 <p>
-    <img src = 'https://raw.githubusercontent.com/khoatranrb/Img4Md/master/TN%26KP_RB/right.png' width=300>
+    <img src = 'https://raw.githubusercontent.com/khoatranrb/Img4Md/master/TN%26KP_RB/Fr.png' width=300>
 </p>
-
-
 
 ### Tham khảo:
 
