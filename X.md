@@ -1,4 +1,4 @@
-* [Entropy](#**5.-Properties**)
+* [Entropy](#desc)
 
 In this blog, we will discuss about **Information theory**, about its concept and its mathematical nature. 
 
@@ -75,7 +75,7 @@ $$
   $$
 
 
-
+<a name="desc"></a>
 ##### **4. Mutual information**
 
 * Mutual  information  is  a  quantity  that  measures  a  relationship  between  two random variables that are sampled simultaneously. It is  defined as:
