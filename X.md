@@ -1,4 +1,4 @@
-* [Entropy](#####**1. Entropy**)
+* [Entropy](#####**1.-Entropy**)
 
 In this blog, we will discuss about **Information theory**, about its concept and its mathematical nature. 
 
